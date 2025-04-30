@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/farmacia-app/static/css/main.cfae51e2.css",
+    "main.js": "/farmacia-app/static/js/main.ba50cbff.js",
+    "index.html": "/farmacia-app/index.html",
+    "main.cfae51e2.css.map": "/farmacia-app/static/css/main.cfae51e2.css.map",
+    "main.ba50cbff.js.map": "/farmacia-app/static/js/main.ba50cbff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfae51e2.css",
+    "static/js/main.ba50cbff.js"
+  ]
+}
